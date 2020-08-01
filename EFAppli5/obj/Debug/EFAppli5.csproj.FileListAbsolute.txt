@@ -1,0 +1,9 @@
+D:\ASP.net_EF\EFAppli5\EFAppli5\bin\EFAppli5.dll
+D:\ASP.net_EF\EFAppli5\EFAppli5\bin\EFAppli5.pdb
+D:\ASP.net_EF\EFAppli5\EFAppli5\bin\EntityFramework.dll
+D:\ASP.net_EF\EFAppli5\EFAppli5\bin\EntityFramework.SqlServer.dll
+D:\ASP.net_EF\EFAppli5\EFAppli5\bin\EntityFramework.xml
+D:\ASP.net_EF\EFAppli5\EFAppli5\bin\EntityFramework.SqlServer.xml
+D:\ASP.net_EF\EFAppli5\EFAppli5\obj\Debug\EFAppli5.csprojResolveAssemblyReference.cache
+D:\ASP.net_EF\EFAppli5\EFAppli5\obj\Debug\EFAppli5.dll
+D:\ASP.net_EF\EFAppli5\EFAppli5\obj\Debug\EFAppli5.pdb
